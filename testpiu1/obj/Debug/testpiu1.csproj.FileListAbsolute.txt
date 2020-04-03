@@ -1,0 +1,6 @@
+D:\vs projects\testpiu1\testpiu1\bin\Debug\testpiu1.exe.config
+D:\vs projects\testpiu1\testpiu1\bin\Debug\testpiu1.exe
+D:\vs projects\testpiu1\testpiu1\bin\Debug\testpiu1.pdb
+D:\vs projects\testpiu1\testpiu1\obj\Debug\testpiu1.csprojAssemblyReference.cache
+D:\vs projects\testpiu1\testpiu1\obj\Debug\testpiu1.exe
+D:\vs projects\testpiu1\testpiu1\obj\Debug\testpiu1.pdb
